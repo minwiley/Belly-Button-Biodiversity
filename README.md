@@ -1,7 +1,8 @@
 # Belly-Button-Biodiversity
 Interactive Visualizations and Dashboards
 
-![navelgazing-a](https://user-images.githubusercontent.com/41865917/49971820-caf47700-fefd-11e8-87a3-f37ff62ff3bf.jpg)
+
+
 
 ![web-mrsa-rex](https://user-images.githubusercontent.com/41865917/49971919-26bf0000-fefe-11e8-9a18-a1f13f87d365.jpg)
 
@@ -61,3 +62,8 @@ Don't forget to pip install -r requirements.txt before you start your server.
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
 Refer to the Plotly.js Documentation when building the plots.
 
+
+
+
+
+![navelgazing-a](https://user-images.githubusercontent.com/41865917/49971820-caf47700-fefd-11e8-87a3-f37ff62ff3bf.jpg)
