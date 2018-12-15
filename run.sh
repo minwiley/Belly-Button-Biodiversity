@@ -1,1 +1,2 @@
-export FLASK_ENV=development flask run
+FLASK_ENV=development
+python -m flask run
